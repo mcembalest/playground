@@ -4,14 +4,14 @@ A place to play with `git`.
 
 ### Fall 2020
 
-#Max Cembalest
+# Max Cembalest
 
-#AC207
+# AC207
 
-#AC209a
+# AC209a
 
-#AM207
+# AM207
 
-#STAT333
+# STAT333
 
-#G1
+# G1
